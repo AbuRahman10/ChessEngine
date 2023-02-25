@@ -1,0 +1,51 @@
+# ninja log v5
+7	644	6975747434719174	schaken_autogen/timestamp	eb790c2fd174cc4e
+7	644	6975747434719174	schaken_autogen/mocs_compilation.cpp	eb790c2fd174cc4e
+7	644	6975747434719174	C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/schaken_autogen/mocs_compilation.cpp	eb790c2fd174cc4e
+7	644	6975747434719174	C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/schaken_autogen/timestamp	eb790c2fd174cc4e
+680	2887	6975747458700657	CMakeFiles/schaken.dir/game.cpp.obj	c1299a389827d467
+718	2774	6975747457578451	CMakeFiles/schaken.dir/SchaakStuk.cpp.obj	776bec8916418f92
+808	2709	6968130088323599	CMakeFiles/schaken.dir/guicode/fileIO.cpp.obj	2d7a0729e05d26f1
+787	2621	6968130087420817	CMakeFiles/schaken.dir/guicode/message.cpp.obj	836ee2c11ae24a9a
+652	2685	6975747456665696	CMakeFiles/schaken.dir/schaken_autogen/mocs_compilation.cpp.obj	f04851f24ca3beda
+644	2796	6975747457817869	CMakeFiles/schaken.dir/main.cpp.obj	9b4488ad1044adb9
+698	2948	6975747459334132	CMakeFiles/schaken.dir/SchaakGUI.cpp.obj	69263fbdb7127147
+661	5624	6975747486123052	CMakeFiles/schaken.dir/guicode/ChessWindow.cpp.obj	c19c1a9d9365f9f
+707	6209	6968130123310654	CMakeFiles/schaken.dir/guicode/chessboard.cpp.obj	4c686216cef16ef7
+5624	6006	6975747489931973	schaken.exe	11537fb1eb61c300
+244	1273	6975639104019110	CMakeFiles/schaken.dir/GeenStuk.cpp.obj	55ee3d5507c0c9b0
+7	604	6975774425371307	schaken_autogen/timestamp	eb790c2fd174cc4e
+7	604	6975774425371307	schaken_autogen/mocs_compilation.cpp	eb790c2fd174cc4e
+7	604	6975774425371307	C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/schaken_autogen/timestamp	eb790c2fd174cc4e
+7	604	6975774425371307	C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/schaken_autogen/mocs_compilation.cpp	eb790c2fd174cc4e
+641	2017	6975774440926148	CMakeFiles/schaken.dir/SchaakStuk.cpp.obj	776bec8916418f92
+610	2020	6975774440936118	CMakeFiles/schaken.dir/schaken_autogen/mocs_compilation.cpp.obj	f04851f24ca3beda
+604	2034	6975774441115690	CMakeFiles/schaken.dir/main.cpp.obj	9b4488ad1044adb9
+657	2153	6975774442307796	CMakeFiles/schaken.dir/SchaakGUI.cpp.obj	69263fbdb7127147
+627	2162	6975774442397750	CMakeFiles/schaken.dir/game.cpp.obj	c1299a389827d467
+616	4478	6975774465552417	CMakeFiles/schaken.dir/guicode/ChessWindow.cpp.obj	c19c1a9d9365f9f
+4479	4815	6975774468905165	schaken.exe	11537fb1eb61c300
+7	757	6975795646861195	schaken_autogen/timestamp	eb790c2fd174cc4e
+7	757	6975795646861195	schaken_autogen/mocs_compilation.cpp	eb790c2fd174cc4e
+7	757	6975795646861195	C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/schaken_autogen/timestamp	eb790c2fd174cc4e
+7	757	6975795646861195	C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/schaken_autogen/mocs_compilation.cpp	eb790c2fd174cc4e
+765	2905	6975795670274118	CMakeFiles/schaken.dir/schaken_autogen/mocs_compilation.cpp.obj	f04851f24ca3beda
+757	2983	6975795671042102	CMakeFiles/schaken.dir/main.cpp.obj	9b4488ad1044adb9
+823	3003	6975795671091964	CMakeFiles/schaken.dir/SchaakStuk.cpp.obj	776bec8916418f92
+774	3022	6975795671456151	CMakeFiles/schaken.dir/game.cpp.obj	c1299a389827d467
+846	3126	6975795672528446	CMakeFiles/schaken.dir/SchaakGUI.cpp.obj	69263fbdb7127147
+795	5907	6975795700361188	CMakeFiles/schaken.dir/guicode/ChessWindow.cpp.obj	c19c1a9d9365f9f
+5908	6259	6975795703858640	schaken.exe	11537fb1eb61c300
+8	283	6977340647554392	schaken_autogen/timestamp	eb790c2fd174cc4e
+8	283	6977340647554392	schaken_autogen/mocs_compilation.cpp	eb790c2fd174cc4e
+8	283	6977340647554392	C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/schaken_autogen/timestamp	eb790c2fd174cc4e
+8	283	6977340647554392	C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/schaken_autogen/mocs_compilation.cpp	eb790c2fd174cc4e
+289	2078	6977340665488091	CMakeFiles/schaken.dir/SchaakStuk.cpp.obj	776bec8916418f92
+2078	2683	6977340671526525	schaken.exe	11537fb1eb61c300
+11	283	6977704603657017	schaken_autogen/timestamp	eb790c2fd174cc4e
+11	283	6977704603657017	schaken_autogen/mocs_compilation.cpp	eb790c2fd174cc4e
+11	283	6977704603657017	C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/schaken_autogen/timestamp	eb790c2fd174cc4e
+11	283	6977704603657017	C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/schaken_autogen/mocs_compilation.cpp	eb790c2fd174cc4e
+339	1939	6977704620176641	CMakeFiles/schaken.dir/SchaakStuk.cpp.obj	776bec8916418f92
+290	1986	6977704620680736	CMakeFiles/schaken.dir/game.cpp.obj	c1299a389827d467
+1986	2458	6977704625382235	schaken.exe	11537fb1eb61c300
