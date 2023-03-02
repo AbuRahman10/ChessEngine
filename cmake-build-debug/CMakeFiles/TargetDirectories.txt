@@ -1,5 +1,0 @@
-C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/CMakeFiles/schaken.dir
-C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/CMakeFiles/schaken_autogen_timestamp_deps.dir
-C:/Users/Abobaker Rahman/CLionProjects/SchaakTaak Renew/cmake-build-debug/CMakeFiles/schaken_autogen.dir
