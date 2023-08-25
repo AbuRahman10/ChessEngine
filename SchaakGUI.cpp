@@ -445,7 +445,7 @@ void SchaakGUI::threatsOFF()
     }
 }
 
-//deze functie gaat de schaakstuk promoveren naar de stuk naar keuze
+//deze functie gaat het schaakstuk promoveren naar de stuk naar keuze
 void SchaakGUI::promotie(SchaakStuk *stuk)
 {
     if (stuk != nullptr and stuk->ISpion())
