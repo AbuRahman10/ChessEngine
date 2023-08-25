@@ -118,6 +118,8 @@ public:
 
     bool lege_vak(SchaakStuk* schaakStuk,int x,int y);
 
+    void AI();
+
 private:
     // Hier zet jij jouw datastructuur neer om het bord te bewaren ...
 

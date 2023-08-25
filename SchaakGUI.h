@@ -29,6 +29,9 @@ public:
 
     vector<pair<SchaakStuk*,pair<int,int>>> stuk_EN_coordinaat;
 
+    bool AI_of_Sp = false;
+    bool isAI = false;
+
     SchaakStuk* huidige_stuk;
 
 private:
@@ -55,6 +58,9 @@ private:
     void visualizationChange() override;
 
     void vraagNewGame(); // vraagt een nieuwe game te laten opstarten
+
+    void vraagAI();
+    void AIgui();
 
 /*  Overgeerfde functies van ChessWindow:
 

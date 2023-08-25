@@ -1095,3 +1095,31 @@ void Game::en_passantOFFGEM(int oude_pos1, int col, int r, int oude_pos2, bool &
     }
 }
 
+void Game::AI()
+{
+    int x = rand()%8;
+    int y = rand()%8;
+
+    SchaakStuk* piece = getPiece(x,y);
+
+    int i = 0;
+    while (i == 0)
+    {
+        x = rand()%8;
+        y = rand()%8;
+
+        SchaakStuk* zwartAI = getPiece(x,y);
+        vector<pair<int,int>> geldigeZN;
+
+        if (zwartAI != nullptr and zwartAI->getKleur() == zwart)
+        {
+            geldigeZN = zwartAI->geldige_zetten(*this);
+            for (pair<int,int> i : geldigeZN)
+            {
+                move(zwartAI,i.first,i.second);
+                return;
+            }
+        }
+    }
+}
+

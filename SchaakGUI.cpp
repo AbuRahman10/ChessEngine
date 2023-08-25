@@ -24,6 +24,11 @@ void SchaakGUI::clicked(int r, int k) {
 
     if (clicking == false) // als er voor het eerst geklikt wordt (clicking blijft false)
     {
+        if (AI_of_Sp == false)
+        {
+            vraagAI();
+            AI_of_Sp = true;
+        }
         if (g.schaak(player2) or g.schaak(player1)) // gaat een nieuwe game starten als de user het wilt
         {
             if (g.schaakmat(zwart))
@@ -151,6 +156,10 @@ void SchaakGUI::clicked(int r, int k) {
             }
             player_change(); // en de speler wordt gewisseld (kleur gewisseld)
             clicking = false; // zo beeïndigt de tweede klik
+            if (isAI)
+            {
+                AIgui();
+            }
             return; //niet meer verder gaan
         }
 
@@ -546,4 +555,32 @@ void SchaakGUI::vraagNewGame()
         removeAllMarking();
         return;
     }
+}
+
+void SchaakGUI::vraagAI()
+{
+    //bij ja -> newGame()
+    QMessageBox c;
+    c.setText("Wil je tegen de computer spelen?");
+    QAbstractButton* computer = reinterpret_cast<QAbstractButton *>(c.addButton("COMPUTER",QMessageBox::ActionRole)); // QT website
+    QAbstractButton* speler2 = reinterpret_cast<QAbstractButton *>(c.addButton("TWEE SPELERS", QMessageBox::ActionRole));
+
+    c.exec();
+
+    if (c.clickedButton() == computer)
+    {
+        message("Veel Succes!");
+        isAI = true;
+    }
+    else if (c.clickedButton() == speler2)
+    {
+        message("Geniet Van De Game!");
+    }
+}
+
+void SchaakGUI::AIgui()
+{
+    g.AI();
+    update();
+    player_change();
 }
